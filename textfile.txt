@@ -1,1 +1,2 @@
-this is a text file
+this is a text file 
+second edit to verify modified git status
