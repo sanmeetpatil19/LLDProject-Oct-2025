@@ -1,3 +1,4 @@
-this is a text file 
+there is a new line added to perform pull request for GitDemo2
+thie is a text file 
 second edit to verify modified git status
 added one more line to verify reversal process
