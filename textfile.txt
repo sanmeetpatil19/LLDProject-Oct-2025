@@ -1,2 +1,3 @@
 this is a text file 
 second edit to verify modified git status
+added one more line to verify reversal process
